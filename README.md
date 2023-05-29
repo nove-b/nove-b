@@ -1,6 +1,6 @@
 ### Hi there nove-b👋
 
-under construction...🏗️
+[📧Contact](<mailto:info@nove-web.com>)
 
 ### 🚀 Public My Project
 - [ Flash Book | 読書中の感想をひと言から始める。](https://flashbook.app)

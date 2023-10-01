@@ -1,6 +1,6 @@
 ### Hi there nove-b👋
 
-[Contact 📧](<mailto:nove.b.web@gmail.com>)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nove-b&theme=github)
 
 ### 🚀 Public My Project
 - [ Flash Book | 読書中の感想をひと言から始める。](https://flashbook.app)

@@ -5,7 +5,7 @@ The last generation of software engineers.<br>
 
 ### Latest Tangled Contribute
 
-<!-- TANGLED-CONTRIBUTE-LIST:START -->
-<!-- TANGLED-CONTRIBUTE-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![Tangled Activity](https://tangled-activity.vercel.app/api/graph.ts?account=nove-b.dev&range=12)

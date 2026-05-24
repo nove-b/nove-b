@@ -15,9 +15,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/setup-node@v4
         with:
-          feed_list: "https://tangled.org/nove-b.dev/feed.atom"
-          max_post_count: 10
-          template: "$date - [$title]($url)"
-          date_format: "yyyy-mm-dd"
+          node-version: 20
+
+      - name: Update README entries
+        run: node .github/scripts/update-tangled-readme.mjs
+
+      - name: Commit README changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Update README from Tangled feed'

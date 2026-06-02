@@ -6,6 +6,7 @@ The last generation of software engineers.<br>
 ### Latest Tangled Contribute
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-06-02 📝 Issue: [@nove-b.dev created issue 'proposal: allow selecting the default branch or a specific branch when forking' in @tangled.org/core](https://tangled.org/@tangled.org/core/issues/598)
 - 2026-05-24 🔀 Pull Request: [@nove-b.dev created pull request 'signup: use NoticeHTMLWithClears for success message in signup transaction' in @tangled.org/core](https://tangled.org/@tangled.org/core/pulls/1581)
 - 2026-05-19 🔀 Pull Request: [@nove-b.dev created pull request 'feat(issue): add mention functionality to comment templates' in @tangled.org/core](https://tangled.org/@tangled.org/core/pulls/1540)
 - 2026-05-18 📦 Repository: [@nove-b.dev created repository 'tangled-core-2'](https://tangled.org/@nove-b.dev/tangled-core-2)
@@ -15,7 +16,6 @@ The last generation of software engineers.<br>
 - 2026-04-30 🔀 Pull Request: [@nove-b.dev created pull request 'appview: issues: filter issues by clicking a label' in @tangled.org/core](https://tangled.org/@tangled.org/core/pulls/1389)
 - 2026-04-30 📝 Issue: [@nove-b.dev created issue 'Enable sorting by clicking on issue labels' in @tangled.org/core](https://tangled.org/@tangled.org/core/issues/499)
 - 2026-04-28 🔀 Pull Request: [@nove-b.dev created pull request 'appview: repo/fragments: add copy button to readme' in @tangled.org/core](https://tangled.org/@tangled.org/core/pulls/1372)
-- 2026-04-21 📦 Repository: [@nove-b.dev created repository 'tangled-core'](https://tangled.org/@nove-b.dev/tangled-core)
 <!-- BLOG-POST-LIST:END -->
 
 ![Tangled Activity](https://tangled-activity.vercel.app/api/graph.ts?account=nove-b.dev&range=12)
